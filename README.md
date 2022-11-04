@@ -33,7 +33,7 @@ ls -la
 ![screenshot of shell](https://user-images.githubusercontent.com/30075600/114757753-e50c2180-9d64-11eb-95ea-fb9bba776c8c.png)
 ## Contributors :sunglasses::muscle:
 * [**Isaiah E.**](https://github.com/IsaiahEmmanuel)
-* [**timilehin A.**](https://github.com/timishot)
+* [**Timilehin A.**](https://github.com/timishot)
 ## Acknowledgments :pray:
 - Our fellow cohort members.
 - The creators of the C language.
