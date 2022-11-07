@@ -1,8 +1,8 @@
 #include "shell.h"
 
 /**
- * get_sigint - Handle the ctrl + c call in prompt
- * @sig: signal handler
+ * get_sigint - Handle the crtl + c call in prompt
+ * @sig: Signal handler
  */
 void get_sigint(int sig)
 {
